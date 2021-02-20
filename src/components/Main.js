@@ -75,6 +75,9 @@ class Main extends React.Component {
                 <a href="https://gitconnected.com/lanekatris" target="_blank" rel="noreferrer">Here's my resume</a>
               </li>
               <li>
+                <a href="https://medium.com/@lanekatris" target="_blank" rel="noreferrer">Blog</a>
+              </li>
+              <li>
                 <a href="https://www.linkedin.com/in/lane-katris-80610a44/" target="_blank" rel="noreferrer">LinkedIn</a>
               </li>
               <li>
