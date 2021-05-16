@@ -13,3 +13,11 @@ Uses:
 * To quickly clear DNS cache to see your DNS changes working:
     * [Ubuntu 20.04 clear DNS Cache](https://without-brains.net/2020/09/30/flushing-your-dns-cache-on-ubuntu-20-04/)
     * For Pi-hole go to `/admin/settings.php` and click **Restart DNS resolver**
+
+{
+"title": "A+ Certification",
+"date": "2010-12-01",
+"awarder": "CompTIA",
+"summary": ""
+
+        }
